@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Mosiah 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosiahazuaje2019&show_icons=true&theme=radical)
 
 <!--
 **mosiahazuaje2019/mosiahazuaje2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
